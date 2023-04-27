@@ -1,0 +1,62 @@
+#Stock{
+
+    color:greenyellow;
+
+}/*modificaciones realizadas a el titulo principal de la seccion designada atraves del div*/
+
+.Verduras{
+   
+    border-style : double;
+    border-color: red;
+    border-radius : 2px;
+    border-width : 2px ;
+    color : green;
+
+
+}/*modificaciones con un marco incluido para uno de los titulos o subtitulos designados con H1 , H2........*/
+
+p.Acelga{
+
+    color:black;
+    
+}
+
+.Carnes{
+   
+    border-style : double;
+    border-color: red;
+    border-radius : 2px;
+    border-width : 2px ;
+    color : rebeccapurple;
+
+}/*modificaciones con un marco incluido para uno de los titulos o subtitulos designados con H1 , H2........*/
+
+.Frutas{
+   
+    border-style : double;
+    border-color: red;
+    border-radius : 2px;
+    border-width : 2px ;
+    color :royalblue;
+}/*modificaciones con un marco incluido para uno de los titulos o subtitulos designados con H1 , H2........*/
+p.Resultado{
+
+    color:red ;  
+}/* modificaciones a los parrafos o texto que se utiliza en la imagen */
+
+
+.margen{  
+    
+    margin : 20px 20px 30px 40px;
+    padding: 35px 400px 200px 100px;
+    border : red solid 5px;
+    height:  90px;
+    width : 70px;
+    
+}  /*modificaiones al margen que aparece en la cabezera de la pagina*/
+
+section{
+
+    background-image: url("Imagenes/Fondo.jpg");
+ 
+ }
